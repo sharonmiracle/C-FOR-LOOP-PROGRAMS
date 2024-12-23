@@ -20,10 +20,10 @@ int main()
    
     if(flag == 1)
     {
-        printf("It is a Perfect Number");
+        printf("It is a Perfect Square Number");
     }
     else
     {
-        printf("It is not a Perfect Number");
+        printf("It is not a Perfect Square Number");
     }
 }
