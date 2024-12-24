@@ -3,3 +3,4 @@
 3) Program to check whether a given number is Perfect Square Number or not
 4) Program to print Right Half Pyramid Pattern
 5) Program to print Left Half Pyramid Pattern
+6) Program to print Inverted Right-angled triangle
