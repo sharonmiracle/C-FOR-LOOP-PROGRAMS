@@ -43,4 +43,4 @@
     G H I J
     K L M N O
 16) Program to increment each digit of a given number by 1, except for the digit 9, which should be replaced by 0
-    1 -> 2, 2 -> 3,........9 -> 0
+    (1 -> 2, 2 -> 3,........9 -> 0)
