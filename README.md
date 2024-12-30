@@ -36,4 +36,9 @@
     C C C
     D D D D
     E E E E E
-15) 
+15) Program to print the pattern
+    A
+    B C
+    D E F
+    G H I J
+    K L M N O
