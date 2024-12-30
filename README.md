@@ -44,3 +44,8 @@
     K L M N O
 16) Program to increment each digit of a given number by 1, except for the digit 9, which should be replaced by 0
     (1 -> 2, 2 -> 3,........9 -> 0)
+17) Program to print the pattern
+         1
+       2 1 2
+     3 2 1 2 3
+   4 3 2 1 2 3 4
