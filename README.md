@@ -50,7 +50,7 @@
      3 2 1 2 3
    4 3 2 1 2 3 4
 18) Program to find whether a given number is Harshad number or not
-19) Program to print the pattern
+19) Program to print the pattern (Square Box)
     * * * *
     * * * *
     * * * *
