@@ -58,3 +58,4 @@
 20) Program to find the Factorial of a number
 21) Program to find whether a given number is Prime number or not
 22) Program to find the Prime Factors of a given number
+23) Program to find the sum of the Prime Factors of a given number
