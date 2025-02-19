@@ -60,3 +60,9 @@
 22) Program to find the Prime Factors of a given number
 23) Program to find the sum of the Prime Factors of a given number
 24) Program to find whether a given number is Palindrome or not
+25) Program to print the pattern
+    0
+    1 0
+    0 1 0
+    1 0 1 0
+    0 1 0 1 0
