@@ -66,12 +66,14 @@
     0 1 0    
     1 0 1 0   
     0 1 0 1 0 
-26) Program to print the pattern          
+26) Program to print the pattern
+"
           1                                       
         1 2 1                  
       1 2 3 2 1     
-    1 2 3 4 3 2 1     
-27) Program to print the pattern
+    1 2 3 4 3 2 1
+"    
+28) Program to print the pattern
          A
        A B A
      A B C B A
