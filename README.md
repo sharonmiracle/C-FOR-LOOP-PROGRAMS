@@ -42,7 +42,7 @@
     D D D D
     E E E E E
 18) Program to print the pattern
-    
+
     A
     B C
     D E F
@@ -57,7 +57,6 @@
    4 3 2 1 2 3 4
 21) Program to find whether a given number is Harshad number or not
 22) Program to print the pattern (Square Box)
-    
     * * * *
     * * * *
     * * * *
@@ -68,20 +67,17 @@
 27) Program to find the sum of the Prime Factors of a given number
 28) Program to find whether a given number is Palindrome or not
 29) Program to print the pattern (Floyds Triangle)
-    
     0            
     1 0      
     0 1 0    
     1 0 1 0   
     0 1 0 1 0 
 30) Program to print the pattern
-    
          1
        1 2 1
      1 2 3 2 1
    1 2 3 4 3 2 1
-32) Program to print the pattern ()
-    
+32) Program to print the pattern
          A
        A B A
      A B C B A
