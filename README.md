@@ -30,13 +30,13 @@
     A B C
     A B C D
     A B C D E     
-14) Program to print the pattern     
+14) Program to print the pattern
     A
     B B
     C C C
     D D D D
     E E E E E
-15) Program to print the pattern     
+15) Program to print the pattern
     A
     B C
     D E F
@@ -67,10 +67,10 @@
     1 0 1 0   
     0 1 0 1 0 
 26) Program to print the pattern          
-                   1                                       
-                 1 2 1                  
-               1 2 3 2 1     
-             1 2 3 4 3 2 1     
+          1                                       
+        1 2 1                  
+      1 2 3 2 1     
+    1 2 3 4 3 2 1     
 27) Program to print the pattern
          A
        A B A
