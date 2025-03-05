@@ -74,10 +74,10 @@
     1 2 3 4 3 2 1
 ```   
 28) Program to print the pattern
-<pre>    
+``` 
          A
        A B A
      A B C B A
     A B C D C B A
-</pre>
+```
 
