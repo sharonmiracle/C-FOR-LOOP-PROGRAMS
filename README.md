@@ -26,8 +26,8 @@
      7 8 9 10
 13) Program to print the pattern         
     A     
-    A B     
-    A B C     
+    A  B     
+    A  B  C     
     A B C D     
     A B C D E     
 14) Program to print the pattern     
