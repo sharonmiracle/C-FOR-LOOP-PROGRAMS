@@ -71,7 +71,7 @@
             1 2 1     
           1 2 3 2 1     
         1 2 3 4 3 2 1     
-27) Program to print the pattern                      
+27) Program to print the pattern      
          A
        A B A
      A B C B A
