@@ -24,12 +24,12 @@
      2 3
      4 5 6
      7 8 9 10
-13) Program to print the pattern     
-    A
-    A B
-    A B C
-    A B C D
-    A B C D E
+13) Program to print the pattern         
+    A     
+    A B     
+    A B C     
+    A B C D     
+    A B C D E     
 14) Program to print the pattern     
     A
     B B
