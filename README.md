@@ -8,17 +8,17 @@
 8) Program to print Full Pyramid Pattern
 9) Program to print Inverted Full Pyramid Pattern
 10) Program to print the pattern     
-    1
-    1 2
-    1 2 3
-    1 2 3 4
-    1 2 3 4 5
+    1   
+    1 2   
+    1 2 3   
+    1 2 3 4   
+    1 2 3 4 5   
 11) Program to print the pattern     
-    1
-    2 2
-    3 3 3
-    4 4 4 4
-    5 5 5 5 5
+    1 
+    2 2 
+    3 3 3 
+    4 4 4 4 
+    5 5 5 5 5 
 12) Program to print the pattern     
      1
      2 3
