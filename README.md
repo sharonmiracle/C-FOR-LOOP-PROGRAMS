@@ -60,17 +60,17 @@
 22) Program to find the Prime Factors of a given number
 23) Program to find the sum of the Prime Factors of a given number
 24) Program to find whether a given number is Palindrome or not
-25) Program to print the pattern (Floyds Triangle)         
+25) Program to print the pattern (Floyds Triangle)               
     0            
     1 0      
     0 1 0    
     1 0 1 0   
     0 1 0 1 0 
 26) Program to print the pattern          
-              1     
-            1 2 1     
-          1 2 3 2 1     
-        1 2 3 4 3 2 1     
+                   1                                       
+                 1 2 1                  
+               1 2 3 2 1     
+             1 2 3 4 3 2 1     
 27) Program to print the pattern
          A
        A B A
