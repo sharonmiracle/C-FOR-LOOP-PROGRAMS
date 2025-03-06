@@ -135,9 +135,26 @@
    n = 4, 4! = 4 * 3 * 2 * 1 = 24
 ```
 21) Program to find whether a given number is Prime number or not
+```
+   n = 4, 4 % 1 = 0 -> count = 1
+          4 % 2 = 0 -> count = 2
+          4 % 4 = 0 -> count = 3
+          count of factors > 2 => 4 is not a prime number
+```
 22) Program to find the Prime Factors of a given number
+```
+   n = 50, 2 * 5 * 5 = 50 => 2, 5, 5 are prime factors
+```
 23) Program to find the sum of the Prime Factors of a given number
+```
+   n = 50, 2 * 5 * 5 = 50
+           sum = 2 + 5 + 5 = 12
+```
 24) Program to find whether a given number is Palindrome or not
+```
+   n = 12321, rev = 12321
+              n == rev => palindrome
+```
 25) Program to print the pattern (Floyds Triangle)
 ```
     0            
