@@ -1,12 +1,64 @@
 1) Program to find whether a given number is Amstrong number or not
-2) Program to find Fibonacci series 
+```
+   n = 153, 1^3 + 5^3 + 3^3 = 153 => amstrong number
+```
+2) Program to find Fibonacci series
+```
+   n = 8, 0 1 1 2 3 5 8 13 => fibonacci series
+```
 3) Program to check whether a given number is Perfect Square Number or not
+```
+   n = 25, 5 * 5 = 25 => perfect square
+   n = 20, 5 * 4 = 20 => not perfect square
+```
 4) Program to print Right Half Pyramid Pattern
+```
+   *
+   * *
+   * * *
+   * * * *
+   * * * * *
+```
 5) Program to print Left Half Pyramid Pattern
+```
+           *
+         * * 
+       * * *
+     * * * *
+   * * * * *
+```
 6) Program to print Inverted Right Half Triangle Pattern
+```
+   * * * * *
+   * * * *
+   * * *
+   * *
+   *
+```
 7) Program to print Inverted Left Half Triangle Pattern
+```
+   * * * * *
+     * * * *
+       * * *
+         * *
+           *
+```
 8) Program to print Full Pyramid Pattern
+```
+          *
+        * * *
+      * * * * *
+    * * * * * * *
+   * * * * * * * * *
+```
 9) Program to print Inverted Full Pyramid Pattern
+```
+   * * * * * * * * *
+     * * * * * * *
+       * * * * *
+        * * *
+          *
+```
 10) Program to print the pattern
 ```
     1
@@ -56,6 +108,9 @@
 ```
 16) Program to increment each digit of a given number by 1, except for the digit 9, which should be replaced by 0
     (1 -> 2, 2 -> 3,........9 -> 0)
+```
+   n = 1234957 => n = 2345068
+```
 17) Program to print the pattern
 ```
          1
@@ -64,6 +119,10 @@
    4 3 2 1 2 3 4
 ```
 18) Program to find whether a given number is Harshad number or not
+```
+    n = 12, sum = 1 + 2 = 3
+            n % sum == 0 => Harshad number
+```
 19) Program to print the pattern (Square Box)
 ```
     * * * *
@@ -72,6 +131,9 @@
     * * * *
 ```
 20) Program to find the Factorial of a number
+```
+   n = 4, 4! = 4 * 3 * 2 * 1 = 24
+```
 21) Program to find whether a given number is Prime number or not
 22) Program to find the Prime Factors of a given number
 23) Program to find the sum of the Prime Factors of a given number
