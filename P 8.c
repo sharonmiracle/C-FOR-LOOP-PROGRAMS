@@ -8,11 +8,11 @@ int main()
     {
         for(int col=1;col<=n-row;col++)
         {
-            printf(" ");
+            printf("  ");
         }
         for(int col=1;col<=2*row-1;col++)
         {
-            printf("*");
+            printf("* ");
         }
         printf("\n");
     }
