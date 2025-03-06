@@ -207,3 +207,11 @@
         * * *
           *
 ```
+31) Program to print 'n' natural numbers
+```
+   n = 5 => 1 2 3 4 5
+```
+32) Program to print the sum of 'n' natural numbers
+```
+   n = 5 => 1 + 2 + 3 + 4 + 5 = 15
+```
