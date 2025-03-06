@@ -197,3 +197,13 @@
          * *
            *
 ```
+30) Program to print the pattern (Diamond pattern)
+```
+          *
+        * * *
+      * * * * *
+    * * * * * * *
+      * * * * *
+        * * *
+          *
+```
