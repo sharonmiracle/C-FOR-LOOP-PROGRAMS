@@ -1,12 +1,12 @@
 #include<stdio.h>
 int main()
 {
-    int num;
+    int n;
     printf("Enter no. of rows : ");
-    scanf("%d",&num);
-    for(int row=1;row<=num;row++)
+    scanf("%d",&n);
+    for(int row=1;row<=n;row++)
     {
-        for(int col=1;col<=num-row;col++)
+        for(int col=1;col<=n-row;col++)
         {
             printf("  ");
         }
