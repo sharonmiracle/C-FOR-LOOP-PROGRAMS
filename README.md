@@ -177,4 +177,23 @@
      A B C B A
     A B C D C B A
 ```
-
+28) Program to print the pattern
+```
+   *
+   * *
+   * * *
+   * * * *
+   * * *
+   * *
+   *
+```
+29) Program to print the pattern
+```
+           *
+         * * 
+       * * *
+     * * * *
+       * * *
+         * *
+           *
+```
