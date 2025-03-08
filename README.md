@@ -229,3 +229,19 @@
    9 * 5 = 45
    10 * 5 = 50
 ```
+34) Program to print the pattern
+```
+       *
+      * *
+     * * *
+    * * * *
+   * * * * *
+```
+35) Program to print the pattern
+```
+   * * * * *
+    * * * *
+     * * *
+      * *
+       *
+```
