@@ -245,7 +245,7 @@
       * *
        *
 ```
-36) Program to print the pattern
+36) Program to print the pattern (Pascals Triangle)
 ```
        1 
       1 2 
