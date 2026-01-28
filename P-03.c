@@ -2,19 +2,23 @@
 int main()
 {
     int num;
-    int flag;
+    int flag = 0;
+    
     printf("Enter a number : ");
     scanf("%d",&num);
-    for(int i=0;i<=num;i++)
+    
+    if(num < 0)
     {
-        if(i*i==num)
+        printf("It is not a Perfect Square Number");
+        return 0;
+    }
+    
+    for(int i=0; i*i<=num; i++)
+    {
+        if(i*i == num)
         {
             flag = 1;
             break;
-        }
-        else
-        {
-            flag = 0;
         }
     }
    
@@ -26,4 +30,6 @@ int main()
     {
         printf("It is not a Perfect Square Number");
     }
+    
+    return 0;
 }
