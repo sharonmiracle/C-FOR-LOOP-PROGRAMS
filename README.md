@@ -1,6 +1,7 @@
-1) Program to find whether a given number is Amstrong number or not
+1) Program to find whether a given number is Armstrong number or not
 ```
-   n = 153, 1^3 + 5^3 + 3^3 = 153 => amstrong number
+   n = 153, 1^3 + 5^3 + 3^3 = 153 => Armstrong Number
+   n = 1634, 1^4 + 6^4 + 3^4 + 4^4 = 1634 => Armstrong Number
 ```
 2) Program to find Fibonacci series
 ```
