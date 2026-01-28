@@ -1,26 +1,42 @@
 #include<stdio.h>
+#include<math.h>
+
 int main()
 {
-    int n;
+    int n, temp, rem;
+    int count = 0;
     int sum = 0;
-    int rem;
+
     printf("Enter a number : ");
     scanf("%d",&n);
-    int num = n;
-    while(n!=0)
+    
+    temp = n;
+    
+    // count the no. of digits
+    while(temp!=0)
     {
-        rem=n%10;
-        sum+=(rem*rem*rem);
-        n= n/10;
+        count++;
+        temp = temp/10;
     }
-    printf("%d",sum);
-    if(sum == num)
+    
+    temp = n;
+    
+    // calculate Armstrong number
+    while(temp!=0)
     {
-        printf("\nIt is an Amstrong number");
+        rem = temp%10;
+        sum += pow(rem, count);
+        temp = temp/10;
+    }
+    printf("The sum is %d",sum);
+    
+    if(sum == n)
+    {
+        printf("\n%d is an Armstrong number",n);
     }
     else
     {
-        printf("\nIt is not an Amstrong Number");
+        printf("\n%d is not an Armstrong Number",n);
     }
     return 0;
 }
